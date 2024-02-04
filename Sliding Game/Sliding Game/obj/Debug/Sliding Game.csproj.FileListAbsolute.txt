@@ -1,0 +1,17 @@
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\bin\Debug\Sliding Game.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\bin\Debug\Sliding Game.exe
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\bin\Debug\Sliding Game.pdb
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.Form1.resources
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.Properties.Resources.resources
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.GenerateResource.cache
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding Game.exe
+C:\SEMESTER 2\OOP\OOP Projects\Sliding Game\Sliding Game\obj\Debug\Sliding Game.pdb
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.AssemblyReference.cache
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.Form1.resources
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding_Game.Properties.Resources.resources
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.GenerateResource.cache
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding Game.csproj.CoreCompileInputs.cache
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding Game.exe
+C:\Users\sohai\OneDrive\Desktop\Sliding Game\Sliding Game\obj\Debug\Sliding Game.pdb
